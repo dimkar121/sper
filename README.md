@@ -11,7 +11,7 @@ The experiments were conducted on a diverse suite of nine real-world and semi-sy
 * **Product matching:** ABT-BUY, AMAZON-WALMART, AMAZON-GOOGLE
 * **Bibliographic matching:** ACM-DBLP, SCHOLAR-DBLP
 * **Movies matching:** IMDB-DBPEDIA
-* **Large-Scale Synthetic:** DBLP, NC-VOTERS
+* **Large-Scale Semi-Synthetic:** DBLP, NC-VOTERS
 
 All experiments were run using the `MiniLM-L6-v2` model for embeddings generation.
 
